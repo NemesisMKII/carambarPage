@@ -1,3 +1,3 @@
 document.getElementById("btn").addEventListener("click", () => {
-    alert('oui')
+    // Appel d'API pour récupérer une blague aléatoire du serveur
 })
